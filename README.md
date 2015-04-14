@@ -1,6 +1,5 @@
 # Responsice Web Design with HTML5 and CSS3 ----- 响应式Web设计 HTML5和CSS3实践
 
--------------------------------
 目录
 * 第一章 [HTML5，CSS3及响应式设计入门](chapter1/introduction.md)
  * [为什么智能手机很重要](chapter1/1.1why.md)
